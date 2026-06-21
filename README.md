@@ -4,7 +4,7 @@ A responsive React.js web application for managing referrals, tracking earnings,
 
 ## 🔗 Live Demo
 
-referral-dashboard-coding-assessment-git-main-devesh15.vercel.app
+https://referral-dashboard-coding-assessment-git-main-devesh15.vercel.app/
 
 ## 📂 GitHub Repository
 
