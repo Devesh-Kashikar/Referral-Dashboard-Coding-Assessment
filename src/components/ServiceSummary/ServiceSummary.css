@@ -1,0 +1,32 @@
+.summary-grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(220px, 1fr));
+
+  gap: 20px;
+}
+
+.summary-box {
+  border: 1px solid #e5e7eb;
+
+  border-radius: 12px;
+
+  padding: 20px;
+}
+
+.summary-box span {
+  font-size: 12px;
+
+  color: #6b7280;
+
+  text-transform: uppercase;
+}
+
+.summary-box h3 {
+  margin-top: 10px;
+}
+
+.service{
+   color:#1861d6;
+}

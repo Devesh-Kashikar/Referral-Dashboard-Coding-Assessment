@@ -1,0 +1,27 @@
+.referral-table {
+  width: 100%;
+
+  border-collapse: collapse;
+}
+
+.referral-table th {
+  text-align: left;
+
+  padding: 16px;
+
+  background: #f8fafc;
+}
+
+.referral-table td {
+  padding: 16px;
+
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.referral-table tr:hover {
+  background: #f8fafc;
+}
+
+.color{
+    color: #9161f2;
+}

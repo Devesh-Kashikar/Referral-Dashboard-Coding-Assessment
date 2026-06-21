@@ -1,0 +1,40 @@
+.share-grid {
+  display: grid;
+
+  grid-template-columns: 1fr 1fr;
+
+  gap: 20px;
+}
+
+.copy-row {
+  display: flex;
+
+  gap: 10px;
+}
+
+.copy-row input {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .share-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .copy-row {
+    flex-direction: column;
+  }
+}
+
+.btnColor{
+    background-color: #9161f2;
+    border-radius: 0;
+    color:white;
+    border-radius: 8px;
+    padding: 10px;
+    border-width: 0px;
+}
+
+.input-box2{
+    width: 200px;
+}
